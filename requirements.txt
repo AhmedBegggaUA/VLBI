@@ -1,0 +1,5 @@
+plotly
+matplotlib
+datetime
+pandas==1.4.1
+streamlit
